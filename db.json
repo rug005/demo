@@ -3,15 +3,15 @@
     {
       "title": "Project Page",
       "img": "https://firebasestorage.googleapis.com/v0/b/ruben-s-images.firebasestorage.app/o/bts-ani.avif?alt=media&token=4f35e5bf-0b55-4b10-9abe-b61a5d999e5b",
-      "alt": "Firebase hosted image",
-      "description": "Project using Firebase image.",
+      "alt": "Card for Projects' Page",
+      "description": "Project Page Card",
       "link": "https://rubens-hw5.netlify.app/projects"
     },
     {
       "title": "Interest Page",
       "img": "https://firebasestorage.googleapis.com/v0/b/ruben-s-images.firebasestorage.app/o/Hike1.jpg?alt=media&token=4f35e5bf-0b55-4b10-9abe-b61a5d999e5b",
       "alt": "Interest page link",
-      "description": "Another sample project.",
+      "description": "Card for Link's Page",
       "link": "https://rubens-hw5.netlify.app/projects"
     }
 
