@@ -15,11 +15,11 @@
       "link": "https://rubens-hw5.netlify.app/projects"
     },
     {
-    title: "Courses' Taken Page",
-        img: "https://firebasestorage.googleapis.com/v0/b/ruben-s-images.firebasestorage.app/o/lego-lightshow.gif?alt=media&token=4f35e5bf-0b55-4b10-9abe-b61a5d999e5b",
-        alt: "The courses' I've taken page",
-        description: "These are the courses I've taken while attending UCSD",
-        link: "https://rubens-hw5.netlify.app/courses"
+    "title": "Courses' Taken Page",
+        "img": "https://firebasestorage.googleapis.com/v0/b/ruben-s-images.firebasestorage.app/o/lego-lightshow.gif?alt=media&token=4f35e5bf-0b55-4b10-9abe-b61a5d999e5b",
+        "alt": "The courses' I've taken page",
+        "description": "These are the courses I've taken while attending UCSD",
+        "link": "https://rubens-hw5.netlify.app/courses"
       }
   ]
 }
